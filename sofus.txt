@@ -1,3 +1,2 @@
-hello world
-my next commit 
+hello worldmy next commit 
 Added another change
