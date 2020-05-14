@@ -6,11 +6,11 @@ l
 l
 l
 l
+l       OOOO                  OOOO
+l        ÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖ
 l
 l
-l
-l
-l
-l
-l
-l
+l					      *   *
+l					       \*/
+l						|
+l						-
