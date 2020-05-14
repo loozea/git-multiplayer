@@ -1,6 +1,5 @@
+﻿
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 ^     
 _         /\  
@@ -11,12 +10,12 @@ l
 l       
 l
 l
-=======
+
 mmmmmmmmmmmmmmmmmmm
 ^
 ___KKKKK____
->>>>>>> 29978892fcb4bb965acb7d807fe34164feb45e4d
-=======
+
+
            ^^^^^^
    ------          -------
   |			  |
@@ -24,7 +23,12 @@ ___KKKKK____
 mmmmmmmmmmmmmmmmmmm
 ^
 ___KKKKK____
-=======
+             OOOO
+            o    o
+             o   o
+            ooooo
+  
+
 
 mmmmmmmmmmmmmmmmmmm akram ali
  ^
@@ -33,7 +37,7 @@ l |
 ***
 ___KKKKK____fgfgfggfgfgfgffgfgfgf
  cce2a39c36006f0f01d5e9c06e13c276d47def25
->>>>>>> d47bb4c2c179b047deec8e743eaffa48073b3719
+
 l
 l
 l
@@ -54,3 +58,6 @@ l						|
 l						-
 29978892fcb4bb965acb7d807fe34164feb45e4d 
    ----------------------
+
+ A HOUSE
+
