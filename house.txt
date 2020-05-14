@@ -3,13 +3,46 @@
    ------          -------
   |			  |
   |			  |
-mmmmmmmmmmmmmmmmmmm
+  |			  |
+  |			  |
+  |			  |
+  |			  |
+  |			  |
 ^
-___KKKKK____
              OOOO
             o    o
              o   o
             ooooo
   
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+ ^
+/l\
+l |
+***
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+ ^
+/l\
+l |
+***
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
- A HOUSE
+/////// ---------- \\\\\\
+W W W W W  W
+l
+l
+l
+l       OOOO                  OOOO
+                 ___KKKKK____
+             l
+            l
+           l
+          l
+       OOOO                  OOOO
+l        ÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖ
+l
+l
+l					      *   *
+l					       \*/
+l						|
+l						-
+~~~~~~~~~~~~
