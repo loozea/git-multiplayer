@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 ^     
 _         /\  
@@ -9,9 +10,20 @@ l
 l       
 l
 l
+=======
+mmmmmmmmmmmmmmmmmmm
+^
+___KKKKK____
+>>>>>>> 29978892fcb4bb965acb7d807fe34164feb45e4d
 l
 l
 l
 l
+l       OOOO                  OOOO
+l        ÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖ
 l
 l
+l					      *   *
+l					       \*/
+l						|
+l						-
